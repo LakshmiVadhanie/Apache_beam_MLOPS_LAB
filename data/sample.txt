@@ -1,0 +1,5 @@
+[Enter KENT, GLOUCESTER, and EDMUND]
+KENT    I thought the king had more affected the Duke of
+Albany than Cornwall.
+GLOUCESTER    It did always seem so to us...
+[Exit]

@@ -6,4 +6,4 @@ Changes Implemented:
  - Computed total unique words (Count.Globally) and wrote the vocab size to outputs/stats-*.
  - Enriched word counts with COMMON/RARE buckets (and % of corpus) and wrote to outputs/part_enriched-*
 
-all changes made in the Try_Apache_Beam_Python.ipynb file 
+all code changes made in the Try_Apache_Beam_Python.ipynb file 
